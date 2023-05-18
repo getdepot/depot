@@ -6,6 +6,9 @@ Now available on the Mac App Store! [Get it here](https://apps.apple.com/us/app/
 
 ## Versions:
 
+- Version 1.1.7 - Released 2023-04-28
+
+
 - Version 1.1 - Released 2021-08-17
 
 
